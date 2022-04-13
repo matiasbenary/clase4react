@@ -1,0 +1,14 @@
+.title {
+  color: red;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.title--blue {
+  color: blue;
+}
+.container {
+  width: 300px;
+  display: flex;
+  border: 1px solid red;
+}
